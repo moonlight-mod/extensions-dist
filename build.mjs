@@ -11,7 +11,7 @@ for (const file of exts) {
   try {
     const manifestBuffer = asar.extractFile(filePath, "manifest.json");
     const manifest = JSON.parse(manifestBuffer.toString());
-    manifest.download = `https://moonlight-mod.github.io/extensions/${file}`;
+    manifest.download = `https://moonlight-mod.github.io/extensions-dist/${file}`;
     repo.push(manifest);
   } catch (e) {
     console.error(e);
