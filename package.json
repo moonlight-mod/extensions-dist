@@ -1,0 +1,9 @@
+{
+  "name": "extensions-dist",
+  "devDependencies": {
+    "@electron/asar": "^3.2.8"
+  },
+  "scripts": {
+    "build": "node build.mjs"
+  }
+}
