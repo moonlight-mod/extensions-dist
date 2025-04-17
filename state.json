@@ -514,7 +514,7 @@
   },
   "customSounds": {
     "repository": "https://github.com/Cynosphere/moonlight-extensions.git",
-    "commit": "5bfa20fb6646a2519a822242ceaa7354f1d33b25",
+    "commit": "deb0f18ddf29a63d01146d5ea4a823dc287c22c6",
     "scripts": [
       "build",
       "repo"
@@ -970,5 +970,41 @@
       "repo"
     ],
     "artifact": "repo/silenceTyping.asar"
+  },
+  "betterUploadButton": {
+    "repository": "https://github.com/Cynosphere/moonlight-extensions.git",
+    "commit": "166ef2ce4e1a7d4a49ade428c472596bb96d77d3",
+    "scripts": [
+      "build",
+      "repo"
+    ],
+    "artifact": "repo/betterUploadButton.asar"
+  },
+  "colorConsistency": {
+    "repository": "https://github.com/Cynosphere/moonlight-extensions.git",
+    "commit": "e5314a4b309ae2380d02f1b903d49098fd2ed45b",
+    "scripts": [
+      "build",
+      "repo"
+    ],
+    "artifact": "repo/colorConsistency.asar"
+  },
+  "openExternally": {
+    "repository": "https://github.com/Cynosphere/moonlight-extensions.git",
+    "commit": "7cb9f9d69f3c1f2a384f22cfd92e01bcd1fbfb87",
+    "scripts": [
+      "build",
+      "repo"
+    ],
+    "artifact": "repo/openExternally.asar"
+  },
+  "resolver": {
+    "repository": "https://github.com/Cynosphere/moonlight-extensions.git",
+    "commit": "3258e65fa3c0a50050fde6e3e59327e4ad0ef5fe",
+    "scripts": [
+      "build",
+      "repo"
+    ],
+    "artifact": "repo/resolver.asar"
   }
 }
