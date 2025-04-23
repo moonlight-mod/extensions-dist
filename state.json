@@ -44,15 +44,6 @@
     ],
     "artifact": "repo/removeChannelIcons.asar"
   },
-  "css": {
-    "repository": "https://github.com/floppydiskette/moonlight-exts.git",
-    "commit": "8eb4bcde2544843a9e7f34602142dd04454e56f3",
-    "scripts": [
-      "build",
-      "repo"
-    ],
-    "artifact": "repo/moonlight-css.asar"
-  },
   "customReplyMention": {
     "repository": "https://github.com/Ruthenic/moonlight-extensions.git",
     "commit": "1aa39215e4dd53b571e22260c4e0570563e06856",
@@ -1006,5 +997,9 @@
       "repo"
     ],
     "artifact": "repo/resolver.asar"
+  },
+  "moonlight-css": {
+    "repository": "https://github.com/NotNite/my-moonlight-extensions.git",
+    "commit": "27c97bfd147f229bf2381290c84d64b8bf296876"
   }
 }
