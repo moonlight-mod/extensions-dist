@@ -811,7 +811,7 @@
   },
   "alwaysShowForwardTime": {
     "repository": "https://github.com/Cynosphere/moonlight-extensions.git",
-    "commit": "17aeb0873b2a2b738a0eba7c0f7cd889bc5b0b33",
+    "commit": "6423c4830a47c36177aa72e74cd88ffb88c98c2b",
     "scripts": [
       "build",
       "repo"
@@ -964,7 +964,7 @@
   },
   "betterUploadButton": {
     "repository": "https://github.com/Cynosphere/moonlight-extensions.git",
-    "commit": "166ef2ce4e1a7d4a49ade428c472596bb96d77d3",
+    "commit": "0a3b6921fedc55d712bad7d6bf32381306fd16ab",
     "scripts": [
       "build",
       "repo"
