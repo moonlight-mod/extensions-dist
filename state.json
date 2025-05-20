@@ -370,7 +370,7 @@
   },
   "platformIcons": {
     "repository": "https://github.com/Cynosphere/moonlight-extensions.git",
-    "commit": "ca54586f70578debbf7ef4ff6a96f66b59b13bfc",
+    "commit": "acf3b57f781ebdbe4bde4cb8785430f9274524ba",
     "scripts": [
       "build",
       "repo"
@@ -451,7 +451,7 @@
   },
   "inAppNotifications": {
     "repository": "https://github.com/Cynosphere/moonlight-extensions.git",
-    "commit": "f693527f40ddf4121453fb19e443ac0c4162c4ad",
+    "commit": "acf3b57f781ebdbe4bde4cb8785430f9274524ba",
     "scripts": [
       "build",
       "repo"
