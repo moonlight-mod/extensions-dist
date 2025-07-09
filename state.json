@@ -271,7 +271,7 @@
   },
   "mediaTweaks": {
     "repository": "https://github.com/Cynosphere/moonlight-extensions.git",
-    "commit": "6a942a97f2ac0b09dd47dc2ede104e981a4289a8",
+    "commit": "597fdc83db91ef3ba5df968cda0107764eb9ba33",
     "scripts": [
       "build",
       "repo"
@@ -280,7 +280,7 @@
   },
   "imageViewer": {
     "repository": "https://github.com/NotNite/my-moonlight-extensions.git",
-    "commit": "d066364f33cb69fd4d3a9e2b80da6ca73301ece1",
+    "commit": "39bd0931d17d24a5086c090c9132427825187af3",
     "scripts": [
       "build",
       "repo"
@@ -298,7 +298,7 @@
   },
   "mediaControls": {
     "repository": "https://github.com/NotNite/my-moonlight-extensions.git",
-    "commit": "78f1a5d55c65f87426b112129e4b9125d6670b7c",
+    "commit": "39bd0931d17d24a5086c090c9132427825187af3",
     "scripts": [
       "build",
       "repo"
@@ -532,7 +532,7 @@
   },
   "decor": {
     "repository": "https://github.com/NotNite/my-moonlight-extensions.git",
-    "commit": "bd1fbfadc42b64f5a176c549f21184c5ce7c0426",
+    "commit": "d30a316a0fddc9340d7b1d1e1190c93c97b77993",
     "scripts": [
       "build",
       "repo"
