@@ -1035,10 +1035,24 @@
   },
   "whosWatching": {
     "repository": "https://github.com/Enovale/moonlight-extensions.git",
-    "commit": "89ef84892fb459d475f8ed6d23b38f1abaf5c37d"
+    "commit": "2da45fe9e4b73bf1804c9cc32f5ed37020624047",
+    "scripts": [
+      "build",
+      "repo"
+    ],
+    "artifact": "repo/whosWatching.asar"
   },
   "manyAccounts": {
     "repository": "https://github.com/ap-1/many-accounts.git",
     "commit": "5b80f0932414bc9b81c0a8e14106127946b6e245"
+  },
+  "freeStickers": {
+    "repository": "https://github.com/Enovale/moonlight-extensions.git",
+    "commit": "2da45fe9e4b73bf1804c9cc32f5ed37020624047",
+    "scripts": [
+      "build",
+      "repo"
+    ],
+    "artifact": "repo/freeStickers.asar"
   }
 }
