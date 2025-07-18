@@ -1035,7 +1035,7 @@
   },
   "whosWatching": {
     "repository": "https://github.com/Enovale/moonlight-extensions.git",
-    "commit": "2da45fe9e4b73bf1804c9cc32f5ed37020624047",
+    "commit": "a759635058328cfb9e27048cc4b5fac5019baf3d",
     "scripts": [
       "build",
       "repo"
@@ -1048,7 +1048,7 @@
   },
   "freeStickers": {
     "repository": "https://github.com/Enovale/moonlight-extensions.git",
-    "commit": "2da45fe9e4b73bf1804c9cc32f5ed37020624047",
+    "commit": "a759635058328cfb9e27048cc4b5fac5019baf3d",
     "scripts": [
       "build",
       "repo"
@@ -1072,5 +1072,14 @@
       "repo"
     ],
     "artifact": "repo/favouriteGifSearch.asar"
+  },
+  "removeTopBar": {
+    "repository": "https://github.com/Enovale/moonlight-extensions.git",
+    "commit": "9ac2b51e1389ccf734b0d0f3defe8d1278dbac39",
+    "scripts": [
+      "build",
+      "repo"
+    ],
+    "artifact": "repo/removeTopBar.asar"
   }
 }
