@@ -1099,5 +1099,14 @@
       "repo"
     ],
     "artifact": "repo/gameActivityToggle.asar"
+  },
+  "popoutDates": {
+    "repository": "https://github.com/Cynosphere/moonlight-extensions.git",
+    "commit": "b7d24c8a7b890b1583f72f697777fda69231adbe",
+    "scripts": [
+      "build",
+      "repo"
+    ],
+    "artifact": "repo/popoutDates.asar"
   }
 }
