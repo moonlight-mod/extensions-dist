@@ -1003,8 +1003,8 @@
     "commit": "a1d0e9871f8c2c289f0a9b33ac365cbaf1fc92bc"
   },
   "uwuifier": {
-    "repository": "https://git.amy.rip/amy/moonlight.git",
-    "commit": "5255843a98dc64012e410aabaaaf23956e4de083"
+    "repository": "https://kitsunes.dev/amy/moonlight.git",
+    "commit": "1b44b4b8280fadff0f4c05e5a8ed092a35b731f8"
   },
   "muteGuildOnJoin": {
     "repository": "https://git.gaze.systems/90008/moonlight-exts.git",
@@ -1184,5 +1184,9 @@
       "repo"
     ],
     "artifact": "repo/userpfp.asar"
+  },
+  "antinonce": {
+    "repository": "https://kitsunes.dev/amy/moonlight.git",
+    "commit": "1b44b4b8280fadff0f4c05e5a8ed092a35b731f8"
   }
 }
