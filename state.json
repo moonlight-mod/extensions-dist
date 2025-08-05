@@ -1188,5 +1188,14 @@
   "antinonce": {
     "repository": "https://kitsunes.dev/amy/moonlight.git",
     "commit": "1b44b4b8280fadff0f4c05e5a8ed092a35b731f8"
+  },
+  "showNote": {
+    "repository": "https://github.com/maddymeows/moonlight-exts.git",
+    "commit": "a98e4ad09039b2d17b453aa3b3014136161509f8",
+    "scripts": [
+      "build",
+      "repo"
+    ],
+    "artifact": "repo/showNote.asar"
   }
 }
