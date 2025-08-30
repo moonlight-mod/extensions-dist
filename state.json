@@ -1206,5 +1206,14 @@
       "repo"
     ],
     "artifact": "repo/cleanChatBar.asar"
+  },
+  "noOnboardingDelay": {
+    "repository": "https://github.com/lare354/moonlight-plugins.git",
+    "commit": "d0e22bf754d566d490b069bc17a20ca03a8660ed",
+    "scripts": [
+      "build",
+      "repo"
+    ],
+    "artifact": "repo/noOnboardingDelay.asar"
   }
 }
