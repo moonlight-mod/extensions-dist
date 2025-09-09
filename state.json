@@ -1066,7 +1066,7 @@
   },
   "favouriteGifSearch": {
     "repository": "https://github.com/MeguminSama/moonlight-extensions.git",
-    "commit": "ceec1288a8c93afe3d2492a9dba0c132ef40239e",
+    "commit": "60ed6954ca62b95c5e34c9cfa9f4fd7b6042aeb1",
     "scripts": [
       "build",
       "repo"
