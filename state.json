@@ -1224,5 +1224,9 @@
       "repo"
     ],
     "artifact": "repo/quickDelete.asar"
+  },
+  "slapCommand": {
+    "repository": "https://github.com/korbosoft/moonlight-extensions",
+    "commit": "2b28263d0ea561c3a9ce554141dad016c942a006"
   }
 }
