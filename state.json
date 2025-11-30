@@ -945,8 +945,8 @@
     "artifact": "repo/copyWebp.asar"
   },
   "lastFmRpc": {
-    "repository": "https://git.gaze.systems/90008/moonlight-exts.git",
-    "commit": "b1afed9cf8ca027f434990347f3abd9dcaaf4991",
+    "repository": "https://github.com/90-008/moonlight-exts.git",
+    "commit": "3ce68605e7aef87abfbb5727849e53ba876bba3a",
     "scripts": [
       "build",
       "repo"
@@ -954,8 +954,8 @@
     "artifact": "repo/lastFmRpc.asar"
   },
   "silenceTyping": {
-    "repository": "https://github.com/yusdacra/moonlight-exts.git",
-    "commit": "126344a317f64c2e78f6af5b8c91e08c952d2029",
+    "repository": "https://github.com/90-008/moonlight-exts.git",
+    "commit": "3ce68605e7aef87abfbb5727849e53ba876bba3a",
     "scripts": [
       "build",
       "repo"
@@ -1007,8 +1007,8 @@
     "commit": "1b44b4b8280fadff0f4c05e5a8ed092a35b731f8"
   },
   "muteGuildOnJoin": {
-    "repository": "https://git.gaze.systems/90008/moonlight-exts.git",
-    "commit": "69bc61c7213874535abee2fa84fe7263b64904d3",
+    "repository": "https://github.com/90-008/moonlight-exts.git",
+    "commit": "3ce68605e7aef87abfbb5727849e53ba876bba3a",
     "scripts": [
       "build",
       "repo"
