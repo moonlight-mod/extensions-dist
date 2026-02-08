@@ -721,7 +721,7 @@
   },
   "customSearchEngine": {
     "repository": "https://github.com/maddymeows/moonlight-exts.git",
-    "commit": "cb5f4e40b42e919608304e2e5a3749b0eb5fa038",
+    "commit": "d460814ab00bb2e4c9ecac7b6ea71b815977cc26",
     "scripts": [
       "build",
       "repo"
@@ -793,7 +793,7 @@
   },
   "cloneExpressions": {
     "repository": "https://github.com/maddymeows/moonlight-exts.git",
-    "commit": "4ec3410fc053316920363bd8b05be133a62a7742",
+    "commit": "bfd6e53afee45ba87438273f88737e389e6f6eb9",
     "scripts": [
       "build",
       "repo"
@@ -1111,7 +1111,7 @@
   },
   "dmCallLayout": {
     "repository": "https://github.com/maddymeows/moonlight-exts.git",
-    "commit": "d8f896941b102248625e8f25142219440fb48d3f",
+    "commit": "9c0bf27be684ad8b928ea8bd90242ff156af3012",
     "scripts": [
       "build",
       "repo"
