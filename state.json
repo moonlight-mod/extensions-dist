@@ -667,7 +667,7 @@
   },
   "memberCount": {
     "repository": "https://github.com/TheKodeToad/moonlight-extensions",
-    "commit": "f959fa6ee50c3a8f93ce95fb2ba7d599e715f781",
+    "commit": "f1422125b0c042210432f5b7d7181a9e350a3519",
     "scripts": [
       "build",
       "repo"
@@ -901,7 +901,7 @@
   },
   "staffTags": {
     "repository": "https://github.com/TheKodeToad/moonlight-extensions.git",
-    "commit": "f959fa6ee50c3a8f93ce95fb2ba7d599e715f781",
+    "commit": "f1422125b0c042210432f5b7d7181a9e350a3519",
     "scripts": [
       "build",
       "repo"
