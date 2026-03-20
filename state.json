@@ -1073,10 +1073,6 @@
     ],
     "artifact": "repo/streamQualityWorkaround.asar"
   },
-  "Vennie": {
-    "repository": "https://github.com/omardotdev/moonlight-plugins.git",
-    "commit": "a07020ad1b28aaec51a06aab12cacc0deb3b6bce"
-  },
   "volumeManipulator": {
     "repository": "https://github.com/yofukashino/moonlight-extensions.git",
     "commit": "583bd1a7b951e614fb6eae73102a7209beb7eafb",
