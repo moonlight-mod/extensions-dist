@@ -190,7 +190,7 @@
   },
   "imageViewer": {
     "repository": "https://github.com/NotNite/my-moonlight-extensions.git",
-    "commit": "cc0c28c08ff17ca5398b8c04b03fc9794800ce30",
+    "commit": "9217ea2fc3c588979fd899ee6b70e8b47463242c",
     "scripts": [
       "build",
       "repo"
@@ -208,7 +208,7 @@
   },
   "mediaControls": {
     "repository": "https://github.com/NotNite/my-moonlight-extensions.git",
-    "commit": "cc0c28c08ff17ca5398b8c04b03fc9794800ce30",
+    "commit": "9217ea2fc3c588979fd899ee6b70e8b47463242c",
     "scripts": [
       "build",
       "repo"
