@@ -181,7 +181,7 @@
   },
   "mediaTweaks": {
     "repository": "https://github.com/Cynosphere/moonlight-extensions.git",
-    "commit": "f8a426e030647fb815e3959ed67f3e25d4039c13",
+    "commit": "d537a57bc9030ba334ea257169a8e20ea671c1b5",
     "scripts": [
       "build",
       "repo"
@@ -280,7 +280,7 @@
   },
   "platformIcons": {
     "repository": "https://github.com/Cynosphere/moonlight-extensions.git",
-    "commit": "f8a426e030647fb815e3959ed67f3e25d4039c13",
+    "commit": "d537a57bc9030ba334ea257169a8e20ea671c1b5",
     "scripts": [
       "build",
       "repo"
@@ -415,7 +415,7 @@
   },
   "customSounds": {
     "repository": "https://github.com/Cynosphere/moonlight-extensions.git",
-    "commit": "f8a426e030647fb815e3959ed67f3e25d4039c13",
+    "commit": "d537a57bc9030ba334ea257169a8e20ea671c1b5",
     "scripts": [
       "build",
       "repo"
