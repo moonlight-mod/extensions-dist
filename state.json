@@ -136,7 +136,7 @@
   },
   "callTimer": {
     "repository": "https://github.com/NotNite/my-moonlight-extensions.git",
-    "commit": "3a77cf641199ff9807e34fc8c0cd1c43864accc6",
+    "commit": "c26e0f691ba361a76b3b62ce5880d40fe9303984",
     "scripts": [
       "build",
       "repo"
@@ -181,7 +181,7 @@
   },
   "mediaTweaks": {
     "repository": "https://github.com/Cynosphere/moonlight-extensions.git",
-    "commit": "100701995cd22db9fc7b00bd4fa1c07614c0ae6b",
+    "commit": "f8a426e030647fb815e3959ed67f3e25d4039c13",
     "scripts": [
       "build",
       "repo"
@@ -190,7 +190,7 @@
   },
   "imageViewer": {
     "repository": "https://github.com/NotNite/my-moonlight-extensions.git",
-    "commit": "9217ea2fc3c588979fd899ee6b70e8b47463242c",
+    "commit": "c26e0f691ba361a76b3b62ce5880d40fe9303984",
     "scripts": [
       "build",
       "repo"
@@ -199,7 +199,7 @@
   },
   "devBanner": {
     "repository": "https://github.com/NotNite/my-moonlight-extensions.git",
-    "commit": "cc0c28c08ff17ca5398b8c04b03fc9794800ce30",
+    "commit": "c26e0f691ba361a76b3b62ce5880d40fe9303984",
     "scripts": [
       "build",
       "repo"
@@ -208,7 +208,7 @@
   },
   "mediaControls": {
     "repository": "https://github.com/NotNite/my-moonlight-extensions.git",
-    "commit": "24dd129b58ac2f67e3a834eb99defce36c00f63e",
+    "commit": "c26e0f691ba361a76b3b62ce5880d40fe9303984",
     "scripts": [
       "build",
       "repo"
@@ -235,7 +235,7 @@
   },
   "allActivities": {
     "repository": "https://github.com/Cynosphere/moonlight-extensions.git",
-    "commit": "8bc2a40a27373980f5ebdd309bdc6d959de6c4aa",
+    "commit": "f8a426e030647fb815e3959ed67f3e25d4039c13",
     "scripts": [
       "build",
       "repo"
@@ -280,7 +280,7 @@
   },
   "platformIcons": {
     "repository": "https://github.com/Cynosphere/moonlight-extensions.git",
-    "commit": "100701995cd22db9fc7b00bd4fa1c07614c0ae6b",
+    "commit": "f8a426e030647fb815e3959ed67f3e25d4039c13",
     "scripts": [
       "build",
       "repo"
@@ -361,7 +361,7 @@
   },
   "inAppNotifications": {
     "repository": "https://github.com/Cynosphere/moonlight-extensions.git",
-    "commit": "100701995cd22db9fc7b00bd4fa1c07614c0ae6b",
+    "commit": "f8a426e030647fb815e3959ed67f3e25d4039c13",
     "scripts": [
       "build",
       "repo"
@@ -370,7 +370,7 @@
   },
   "whoJoined": {
     "repository": "https://github.com/Cynosphere/moonlight-extensions.git",
-    "commit": "100701995cd22db9fc7b00bd4fa1c07614c0ae6b",
+    "commit": "f8a426e030647fb815e3959ed67f3e25d4039c13",
     "scripts": [
       "build",
       "repo"
@@ -415,7 +415,7 @@
   },
   "customSounds": {
     "repository": "https://github.com/Cynosphere/moonlight-extensions.git",
-    "commit": "100701995cd22db9fc7b00bd4fa1c07614c0ae6b",
+    "commit": "f8a426e030647fb815e3959ed67f3e25d4039c13",
     "scripts": [
       "build",
       "repo"
@@ -424,7 +424,7 @@
   },
   "dmFavorites": {
     "repository": "https://github.com/Cynosphere/moonlight-extensions.git",
-    "commit": "3b6e03672381a92dad2a5f23e7fd2d46019f65f7",
+    "commit": "f8a426e030647fb815e3959ed67f3e25d4039c13",
     "scripts": [
       "build",
       "repo"
@@ -433,7 +433,7 @@
   },
   "dmDates": {
     "repository": "https://github.com/Cynosphere/moonlight-extensions.git",
-    "commit": "3b6e03672381a92dad2a5f23e7fd2d46019f65f7",
+    "commit": "f8a426e030647fb815e3959ed67f3e25d4039c13",
     "scripts": [
       "build",
       "repo"
@@ -568,7 +568,7 @@
   },
   "mentionAvatars": {
     "repository": "https://github.com/Cynosphere/moonlight-extensions.git",
-    "commit": "100701995cd22db9fc7b00bd4fa1c07614c0ae6b",
+    "commit": "f8a426e030647fb815e3959ed67f3e25d4039c13",
     "scripts": [
       "build",
       "repo"
@@ -658,7 +658,7 @@
   },
   "betterCodeblocks": {
     "repository": "https://github.com/Cynosphere/moonlight-extensions.git",
-    "commit": "70afa3f1a88c336327857d1c1b85305aa0426fa5",
+    "commit": "f8a426e030647fb815e3959ed67f3e25d4039c13",
     "scripts": [
       "build",
       "repo"
@@ -721,7 +721,7 @@
   },
   "alwaysShowForwardTime": {
     "repository": "https://github.com/Cynosphere/moonlight-extensions.git",
-    "commit": "100701995cd22db9fc7b00bd4fa1c07614c0ae6b",
+    "commit": "f8a426e030647fb815e3959ed67f3e25d4039c13",
     "scripts": [
       "build",
       "repo"
@@ -730,7 +730,7 @@
   },
   "noJoinMessageWave": {
     "repository": "https://github.com/Cynosphere/moonlight-extensions.git",
-    "commit": "d8354ea1656866b18847cb20b8b39d14f3b78727",
+    "commit": "f8a426e030647fb815e3959ed67f3e25d4039c13",
     "scripts": [
       "build",
       "repo"
@@ -793,7 +793,7 @@
   },
   "betterEmbedsYT": {
     "repository": "https://github.com/Cynosphere/moonlight-extensions.git",
-    "commit": "7ddee54aca1d71a24278a5dd71ad1f3dbb308739",
+    "commit": "f8a426e030647fb815e3959ed67f3e25d4039c13",
     "scripts": [
       "build",
       "repo"
@@ -901,7 +901,7 @@
   },
   "resolver": {
     "repository": "https://github.com/Cynosphere/moonlight-extensions.git",
-    "commit": "1cdb123ae99ee447cafea017379ddc7160e11ad9",
+    "commit": "f8a426e030647fb815e3959ed67f3e25d4039c13",
     "scripts": [
       "build",
       "repo"
@@ -1048,7 +1048,7 @@
   },
   "voiceTextLink": {
     "repository": "https://github.com/Cynosphere/moonlight-extensions.git",
-    "commit": "01d952255dc844509baff7018aee2efa650415cc",
+    "commit": "f8a426e030647fb815e3959ed67f3e25d4039c13",
     "scripts": [
       "build",
       "repo"
