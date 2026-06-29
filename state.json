@@ -1152,5 +1152,9 @@
       "repo"
     ],
     "artifact": "repo/noPendingCount.asar"
+  },
+  "gifSorter": {
+    "repository": "https://github.com/chachachalga/my-moonlight-extensions",
+    "commit": "47cc0c71b54c74cfde60a6c0d88a636bf0d7c8e5"
   }
 }
